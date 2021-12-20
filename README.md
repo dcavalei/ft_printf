@@ -1,9 +1,1 @@
-# [42 school](https://www.42lisboa.com/en/)
-## ft_printf
-In this project you re-write the well known printf function
-###	Resources
-*	[Printf documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160)
-*	[Man read(2)](https://man7.org/linux/man-pages/man2/read.2.html)
-*	[Man stdarg(3)](https://linux.die.net/man/3/stdarg)
-#### Contact me
-	dcavalei@student.42lisboa.com
+<a href="https://github.com/dcavalei/ft_printf/blob/main/resources/subject.pdf" target="_blank"> <img src="https://user-images.githubusercontent.com/80326272/146805238-000add8c-3fa2-4ae1-b3e6-10fb050e1da4.png" > </a>
